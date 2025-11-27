@@ -10,3 +10,11 @@ Developed using pure HTML & CSS
 Organized folder structure
 Includes documentation and screenshots
 Version-controlled using Git
+
+
+# Technologies used
+HTML5
+CSS3
+Git & GitHub
+VS Code
+
